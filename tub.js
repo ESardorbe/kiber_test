@@ -52,5 +52,8 @@ function findRemainder(a, b) {
   let qoldiq = findRemainder(a, b);
   console.log(qoldiq);  // Natija: 2
   
+
+
+  console.log("salom");
   
   
